@@ -7,6 +7,7 @@ This project was developed as part of a Human-Computer Interaction (HCI) course 
 ## Live Prototype
 
 Figma Design: https://www.figma.com/file/m1kiL2lIoUCwhlhBgELHAt?node-id=7:2&locale=en&type=design
+
 Live Application: https://bachatkro.vercel.app
 
 ---
